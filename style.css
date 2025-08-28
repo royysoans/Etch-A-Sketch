@@ -11,7 +11,7 @@ body {
     justify-content: space-evenly;
 }
 
-#container {
+.container {
     background-color: #f0f8ff;
     display: flex;
     flex-wrap: wrap;
